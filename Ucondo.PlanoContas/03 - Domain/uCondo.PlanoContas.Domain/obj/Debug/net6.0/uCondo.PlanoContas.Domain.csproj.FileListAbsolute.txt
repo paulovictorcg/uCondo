@@ -1,0 +1,12 @@
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\bin\Debug\net6.0\uCondo.PlanoContas.Domain.deps.json
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\bin\Debug\net6.0\uCondo.PlanoContas.Domain.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\bin\Debug\net6.0\uCondo.PlanoContas.Domain.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\uCondo.PlanoContas.Domain.csproj.AssemblyReference.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\uCondo.PlanoContas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\uCondo.PlanoContas.Domain.AssemblyInfoInputs.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\uCondo.PlanoContas.Domain.AssemblyInfo.cs
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\uCondo.PlanoContas.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\uCondo.PlanoContas.Domain.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\refint\uCondo.PlanoContas.Domain.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\uCondo.PlanoContas.Domain.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\03 - Domain\uCondo.PlanoContas.Domain\obj\Debug\net6.0\ref\uCondo.PlanoContas.Domain.dll

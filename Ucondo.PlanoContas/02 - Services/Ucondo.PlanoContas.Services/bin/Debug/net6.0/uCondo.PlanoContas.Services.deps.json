@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uCondo.PlanoContas.Services/1.0.0": {
+        "dependencies": {
+          "uCondo.PlanoContas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "uCondo.PlanoContas.Services.dll": {}
+        }
+      },
+      "uCondo.PlanoContas.Domain/1.0.0": {
+        "runtime": {
+          "uCondo.PlanoContas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uCondo.PlanoContas.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "uCondo.PlanoContas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

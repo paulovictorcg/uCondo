@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using uCondo.PlanoContas.Domain.Entidades;
+using uCondo.PlanoContas.Domain.Interfaces;
 
 namespace Ucondo.PlanoContas.Api.Controllers
 {
@@ -6,11 +8,16 @@ namespace Ucondo.PlanoContas.Api.Controllers
     [ApiController]
     public class ContaController : ControllerBase
     {
+        private readonly IContaService _contaService;
+        public ContaController(IContaService contaService)
+        {
+            _contaService = contaService;
+        }
         // GET: api/<ContaController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IEnumerable<Conta>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return await _contaService.listarTodasContasAsync();
         }
 
         // GET api/<ContaController>/5

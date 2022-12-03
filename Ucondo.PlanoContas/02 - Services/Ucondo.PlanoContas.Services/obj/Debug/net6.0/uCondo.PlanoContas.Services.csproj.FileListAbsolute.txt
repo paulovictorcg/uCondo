@@ -1,0 +1,15 @@
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\bin\Debug\net6.0\uCondo.PlanoContas.Services.deps.json
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\bin\Debug\net6.0\uCondo.PlanoContas.Services.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\bin\Debug\net6.0\uCondo.PlanoContas.Services.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.csproj.AssemblyReference.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.AssemblyInfoInputs.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.AssemblyInfo.cs
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.csproj.CoreCompileInputs.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\refint\uCondo.PlanoContas.Services.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\ref\uCondo.PlanoContas.Services.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\bin\Debug\net6.0\uCondo.PlanoContas.Domain.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\bin\Debug\net6.0\uCondo.PlanoContas.Domain.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\02 - Services\Ucondo.PlanoContas.Services\obj\Debug\net6.0\uCondo.PlanoContas.Services.csproj.CopyComplete

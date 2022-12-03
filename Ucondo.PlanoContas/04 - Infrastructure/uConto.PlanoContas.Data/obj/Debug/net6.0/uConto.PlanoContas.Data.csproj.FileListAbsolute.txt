@@ -1,0 +1,15 @@
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\bin\Debug\net6.0\uConto.PlanoContas.Data.deps.json
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\bin\Debug\net6.0\uConto.PlanoContas.Data.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\bin\Debug\net6.0\uConto.PlanoContas.Data.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.csproj.AssemblyReference.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.AssemblyInfoInputs.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.AssemblyInfo.cs
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\refint\uConto.PlanoContas.Data.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\ref\uConto.PlanoContas.Data.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\bin\Debug\net6.0\uCondo.PlanoContas.Domain.dll
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\bin\Debug\net6.0\uCondo.PlanoContas.Domain.pdb
+D:\Documentos\Programacao\Repositorios\uCondo\Ucondo.PlanoContas\04 - Infrastructure\uConto.PlanoContas.Data\obj\Debug\net6.0\uConto.PlanoContas.Data.csproj.CopyComplete
