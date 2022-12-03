@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - API", "01 - API", "{9198024C-1A97-4C87-BD4F-17D15AB4E57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucondo.PlanoContas.Api", "01 - API\Ucondo.PlanoContas.Api\Ucondo.PlanoContas.Api.csproj", "{213167FB-5E56-4A9A-9AA9-32E982ADD36D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Services", "02 - Services", "{53318D43-0A3D-4498-BC34-EF1DBBD7F930}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Domain", "03 - Domain", "{2110EFD7-992C-49BC-B2EC-A9BB3A6DD0D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Infrastructure", "04 - Infrastructure", "{C27ECEB3-EBFE-4EE0-9214-EA2A73B6E702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uCondo.PlanoContas.Services", "02 - Services\Ucondo.PlanoContas.Services\uCondo.PlanoContas.Services.csproj", "{E12A6A3C-CC93-4571-81C4-E411C98D4306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uCondo.PlanoContas.Domain", "03 - Domain\uCondo.PlanoContas.Domain\uCondo.PlanoContas.Domain.csproj", "{ED3F7A0E-6077-4D6C-9706-4F46D08682CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uConto.PlanoContas.Data", "04 - Infrastructure\uConto.PlanoContas.Data\uConto.PlanoContas.Data.csproj", "{BCE3417F-0064-4551-AFBA-6DD5A3CEEFC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213167FB-5E56-4A9A-9AA9-32E982ADD36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213167FB-5E56-4A9A-9AA9-32E982ADD36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213167FB-5E56-4A9A-9AA9-32E982ADD36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213167FB-5E56-4A9A-9AA9-32E982ADD36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12A6A3C-CC93-4571-81C4-E411C98D4306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12A6A3C-CC93-4571-81C4-E411C98D4306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12A6A3C-CC93-4571-81C4-E411C98D4306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12A6A3C-CC93-4571-81C4-E411C98D4306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3F7A0E-6077-4D6C-9706-4F46D08682CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3F7A0E-6077-4D6C-9706-4F46D08682CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3F7A0E-6077-4D6C-9706-4F46D08682CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3F7A0E-6077-4D6C-9706-4F46D08682CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE3417F-0064-4551-AFBA-6DD5A3CEEFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE3417F-0064-4551-AFBA-6DD5A3CEEFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE3417F-0064-4551-AFBA-6DD5A3CEEFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE3417F-0064-4551-AFBA-6DD5A3CEEFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{213167FB-5E56-4A9A-9AA9-32E982ADD36D} = {9198024C-1A97-4C87-BD4F-17D15AB4E57B}
+		{E12A6A3C-CC93-4571-81C4-E411C98D4306} = {53318D43-0A3D-4498-BC34-EF1DBBD7F930}
+		{ED3F7A0E-6077-4D6C-9706-4F46D08682CF} = {2110EFD7-992C-49BC-B2EC-A9BB3A6DD0D3}
+		{BCE3417F-0064-4551-AFBA-6DD5A3CEEFC5} = {C27ECEB3-EBFE-4EE0-9214-EA2A73B6E702}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE45453F-17B4-4D4F-A084-11F9159DF5D0}
+	EndGlobalSection
+EndGlobal

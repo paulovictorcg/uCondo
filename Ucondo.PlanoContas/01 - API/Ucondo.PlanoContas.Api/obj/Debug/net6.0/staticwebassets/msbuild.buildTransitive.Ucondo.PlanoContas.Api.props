@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ucondo.PlanoContas.Api.props" />
+</Project>
