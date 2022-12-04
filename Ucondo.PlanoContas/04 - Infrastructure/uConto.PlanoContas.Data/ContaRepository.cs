@@ -1,6 +1,5 @@
 ﻿
 using Microsoft.EntityFrameworkCore;
-using System.Runtime.CompilerServices;
 using uCondo.PlanoContas.Domain.Entidades;
 using uCondo.PlanoContas.Domain.Interfaces;
 
@@ -16,6 +15,11 @@ namespace uConto.PlanoContas.Data
         public async Task<IEnumerable<Conta>> obterTodasContasAsync()
         {
             return await _context.Contas.ToListAsync();
+        }
+        public async Task<IEnumerable<Conta>> listarContasPai()
+        {
+            return await _context.Contas.Where(c => !c.AceitaLancamento)
+                                        .ToListAsync();
         }
     }
 }
